@@ -1,4 +1,4 @@
-local redzlib = loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/SmallCAt333/smallcattail/refs/heads/gh-pages/BloxFruit.lua"))()"))()
+local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/SmallCAt333/smallcattail/refs/heads/gh-pages/BloxFruit.lua"))()"))()
 local Window = redzlib:MakeWindow({
   Title = "CrazySea : Blox Fruits",
   SubTitle = "by ECC",
